@@ -1,0 +1,165 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "X:\\HAND-OVER\\Hand-Over CAR\\HAND-OVER-main\\BACK-END\\CarRental_backendM02\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{EC41BD0B-3F4C-4632-819E-0D1A6C4CE859}|Carrental\\Carrental.csproj|x:\\hand-over\\hand-over car\\hand-over-main\\back-end\\carrental_backendm02\\carrental\\controllers\\carcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EC41BD0B-3F4C-4632-819E-0D1A6C4CE859}|Carrental\\Carrental.csproj|solutionrelative:carrental\\controllers\\carcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC41BD0B-3F4C-4632-819E-0D1A6C4CE859}|Carrental\\Carrental.csproj|x:\\hand-over\\hand-over car\\hand-over-main\\back-end\\carrental_backendm02\\carrental\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{EC41BD0B-3F4C-4632-819E-0D1A6C4CE859}|Carrental\\Carrental.csproj|solutionrelative:carrental\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC41BD0B-3F4C-4632-819E-0D1A6C4CE859}|Carrental\\Carrental.csproj|x:\\hand-over\\hand-over car\\hand-over-main\\back-end\\carrental_backendm02\\carrental\\repositoies\\managerrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EC41BD0B-3F4C-4632-819E-0D1A6C4CE859}|Carrental\\Carrental.csproj|solutionrelative:carrental\\repositoies\\managerrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC41BD0B-3F4C-4632-819E-0D1A6C4CE859}|Carrental\\Carrental.csproj|x:\\hand-over\\hand-over car\\hand-over-main\\back-end\\carrental_backendm02\\carrental\\controllers\\managercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EC41BD0B-3F4C-4632-819E-0D1A6C4CE859}|Carrental\\Carrental.csproj|solutionrelative:carrental\\controllers\\managercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC41BD0B-3F4C-4632-819E-0D1A6C4CE859}|Carrental\\Carrental.csproj|x:\\hand-over\\hand-over car\\hand-over-main\\back-end\\carrental_backendm02\\carrental\\dtos\\responcedto\\carresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EC41BD0B-3F4C-4632-819E-0D1A6C4CE859}|Carrental\\Carrental.csproj|solutionrelative:carrental\\dtos\\responcedto\\carresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC41BD0B-3F4C-4632-819E-0D1A6C4CE859}|Carrental\\Carrental.csproj|x:\\hand-over\\hand-over car\\hand-over-main\\back-end\\carrental_backendm02\\carrental\\dtos\\requestdto\\carrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EC41BD0B-3F4C-4632-819E-0D1A6C4CE859}|Carrental\\Carrental.csproj|solutionrelative:carrental\\dtos\\requestdto\\carrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC41BD0B-3F4C-4632-819E-0D1A6C4CE859}|Carrental\\Carrental.csproj|x:\\hand-over\\hand-over car\\hand-over-main\\back-end\\carrental_backendm02\\carrental\\repositoies\\carrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EC41BD0B-3F4C-4632-819E-0D1A6C4CE859}|Carrental\\Carrental.csproj|solutionrelative:carrental\\repositoies\\carrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC41BD0B-3F4C-4632-819E-0D1A6C4CE859}|Carrental\\Carrental.csproj|x:\\hand-over\\hand-over car\\hand-over-main\\back-end\\carrental_backendm02\\carrental\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EC41BD0B-3F4C-4632-819E-0D1A6C4CE859}|Carrental\\Carrental.csproj|solutionrelative:carrental\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC41BD0B-3F4C-4632-819E-0D1A6C4CE859}|Carrental\\Carrental.csproj|x:\\hand-over\\hand-over car\\hand-over-main\\back-end\\carrental_backendm02\\carrental\\entities\\car.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EC41BD0B-3F4C-4632-819E-0D1A6C4CE859}|Carrental\\Carrental.csproj|solutionrelative:carrental\\entities\\car.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 346,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ManagerRepository.cs",
+              "DocumentMoniker": "X:\\HAND-OVER\\Hand-Over CAR\\HAND-OVER-main\\BACK-END\\CarRental_backendM02\\Carrental\\Repositoies\\ManagerRepository.cs",
+              "RelativeDocumentMoniker": "Carrental\\Repositoies\\ManagerRepository.cs",
+              "ToolTip": "X:\\HAND-OVER\\Hand-Over CAR\\HAND-OVER-main\\BACK-END\\CarRental_backendM02\\Carrental\\Repositoies\\ManagerRepository.cs",
+              "RelativeToolTip": "Carrental\\Repositoies\\ManagerRepository.cs",
+              "ViewState": "AQIAAJgBAAAAAAAAAAAiwLABAAA8AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-29T09:13:54.841Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "carresponseDTO.cs",
+              "DocumentMoniker": "X:\\HAND-OVER\\Hand-Over CAR\\HAND-OVER-main\\BACK-END\\CarRental_backendM02\\Carrental\\Dtos\\ResponceDTO\\carresponseDTO.cs",
+              "RelativeDocumentMoniker": "Carrental\\Dtos\\ResponceDTO\\carresponseDTO.cs",
+              "ToolTip": "X:\\HAND-OVER\\Hand-Over CAR\\HAND-OVER-main\\BACK-END\\CarRental_backendM02\\Carrental\\Dtos\\ResponceDTO\\carresponseDTO.cs",
+              "RelativeToolTip": "Carrental\\Dtos\\ResponceDTO\\carresponseDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-28T10:26:17.894Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ManagerController.cs",
+              "DocumentMoniker": "X:\\HAND-OVER\\Hand-Over CAR\\HAND-OVER-main\\BACK-END\\CarRental_backendM02\\Carrental\\Controllers\\ManagerController.cs",
+              "RelativeDocumentMoniker": "Carrental\\Controllers\\ManagerController.cs",
+              "ToolTip": "X:\\HAND-OVER\\Hand-Over CAR\\HAND-OVER-main\\BACK-END\\CarRental_backendM02\\Carrental\\Controllers\\ManagerController.cs",
+              "RelativeToolTip": "Carrental\\Controllers\\ManagerController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-28T09:55:08.933Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "carrequestDTO.cs",
+              "DocumentMoniker": "X:\\HAND-OVER\\Hand-Over CAR\\HAND-OVER-main\\BACK-END\\CarRental_backendM02\\Carrental\\Dtos\\RequestDTO\\carrequestDTO.cs",
+              "RelativeDocumentMoniker": "Carrental\\Dtos\\RequestDTO\\carrequestDTO.cs",
+              "ToolTip": "X:\\HAND-OVER\\Hand-Over CAR\\HAND-OVER-main\\BACK-END\\CarRental_backendM02\\Carrental\\Dtos\\RequestDTO\\carrequestDTO.cs",
+              "RelativeToolTip": "Carrental\\Dtos\\RequestDTO\\carrequestDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-28T09:52:35.808Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Carrepository.cs",
+              "DocumentMoniker": "X:\\HAND-OVER\\Hand-Over CAR\\HAND-OVER-main\\BACK-END\\CarRental_backendM02\\Carrental\\Repositoies\\Carrepository.cs",
+              "RelativeDocumentMoniker": "Carrental\\Repositoies\\Carrepository.cs",
+              "ToolTip": "X:\\HAND-OVER\\Hand-Over CAR\\HAND-OVER-main\\BACK-END\\CarRental_backendM02\\Carrental\\Repositoies\\Carrepository.cs",
+              "RelativeToolTip": "Carrental\\Repositoies\\Carrepository.cs",
+              "ViewState": "AQIAAFAAAAAAAAAAAAAwwGgAAABVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-28T09:24:13.769Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Car.cs",
+              "DocumentMoniker": "X:\\HAND-OVER\\Hand-Over CAR\\HAND-OVER-main\\BACK-END\\CarRental_backendM02\\Carrental\\Entities\\Car.cs",
+              "RelativeDocumentMoniker": "Carrental\\Entities\\Car.cs",
+              "ToolTip": "X:\\HAND-OVER\\Hand-Over CAR\\HAND-OVER-main\\BACK-END\\CarRental_backendM02\\Carrental\\Entities\\Car.cs",
+              "RelativeToolTip": "Carrental\\Entities\\Car.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-28T09:23:58.252Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CarController.cs",
+              "DocumentMoniker": "X:\\HAND-OVER\\Hand-Over CAR\\HAND-OVER-main\\BACK-END\\CarRental_backendM02\\Carrental\\Controllers\\CarController.cs",
+              "RelativeDocumentMoniker": "Carrental\\Controllers\\CarController.cs",
+              "ToolTip": "X:\\HAND-OVER\\Hand-Over CAR\\HAND-OVER-main\\BACK-END\\CarRental_backendM02\\Carrental\\Controllers\\CarController.cs",
+              "RelativeToolTip": "Carrental\\Controllers\\CarController.cs",
+              "ViewState": "AQIAACoAAAAAAAAAAAAkwDsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-28T09:14:39.786Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "X:\\HAND-OVER\\Hand-Over CAR\\HAND-OVER-main\\BACK-END\\CarRental_backendM02\\Carrental\\appsettings.json",
+              "RelativeDocumentMoniker": "Carrental\\appsettings.json",
+              "ToolTip": "X:\\HAND-OVER\\Hand-Over CAR\\HAND-OVER-main\\BACK-END\\CarRental_backendM02\\Carrental\\appsettings.json",
+              "RelativeToolTip": "Carrental\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-10-28T09:12:42.355Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "X:\\HAND-OVER\\Hand-Over CAR\\HAND-OVER-main\\BACK-END\\CarRental_backendM02\\Carrental\\Program.cs",
+              "RelativeDocumentMoniker": "Carrental\\Program.cs",
+              "ToolTip": "X:\\HAND-OVER\\Hand-Over CAR\\HAND-OVER-main\\BACK-END\\CarRental_backendM02\\Carrental\\Program.cs",
+              "RelativeToolTip": "Carrental\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACYAAABGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-28T09:11:03.969Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

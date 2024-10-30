@@ -1,0 +1,81 @@
+{
+  "Files": [
+    {
+      "Id": "X:\\HAND-OVER\\Hand-Over CAR\\HAND-OVER-main\\BACK-END\\CarRental_backendM02\\Carrental\\wwwroot\\carimages\\11a3f856-f7d9-4162-96f9-2147edd6d602.jpg",
+      "PackagePath": "staticwebassets\\carimages\\11a3f856-f7d9-4162-96f9-2147edd6d602.jpg"
+    },
+    {
+      "Id": "X:\\HAND-OVER\\Hand-Over CAR\\HAND-OVER-main\\BACK-END\\CarRental_backendM02\\Carrental\\wwwroot\\carimages\\303af2a6-f391-4ce7-a901-790a21196ca4.jpg",
+      "PackagePath": "staticwebassets\\carimages\\303af2a6-f391-4ce7-a901-790a21196ca4.jpg"
+    },
+    {
+      "Id": "X:\\HAND-OVER\\Hand-Over CAR\\HAND-OVER-main\\BACK-END\\CarRental_backendM02\\Carrental\\wwwroot\\carimages\\49eae8d0-9026-4efb-8cc2-6e86406910a6.jpg",
+      "PackagePath": "staticwebassets\\carimages\\49eae8d0-9026-4efb-8cc2-6e86406910a6.jpg"
+    },
+    {
+      "Id": "X:\\HAND-OVER\\Hand-Over CAR\\HAND-OVER-main\\BACK-END\\CarRental_backendM02\\Carrental\\wwwroot\\carimages\\4eccad48-56e5-469f-9073-d22f37bff85f.png",
+      "PackagePath": "staticwebassets\\carimages\\4eccad48-56e5-469f-9073-d22f37bff85f.png"
+    },
+    {
+      "Id": "X:\\HAND-OVER\\Hand-Over CAR\\HAND-OVER-main\\BACK-END\\CarRental_backendM02\\Carrental\\wwwroot\\carimages\\705a3af0-2e20-489e-8ebb-6504a9327991.jpg",
+      "PackagePath": "staticwebassets\\carimages\\705a3af0-2e20-489e-8ebb-6504a9327991.jpg"
+    },
+    {
+      "Id": "X:\\HAND-OVER\\Hand-Over CAR\\HAND-OVER-main\\BACK-END\\CarRental_backendM02\\Carrental\\wwwroot\\carimages\\81ad951f-497f-4121-9905-0b25183e7d1c.jpg",
+      "PackagePath": "staticwebassets\\carimages\\81ad951f-497f-4121-9905-0b25183e7d1c.jpg"
+    },
+    {
+      "Id": "X:\\HAND-OVER\\Hand-Over CAR\\HAND-OVER-main\\BACK-END\\CarRental_backendM02\\Carrental\\wwwroot\\carimages\\842be6e4-5be0-4ee7-a3d1-619544b6374a.png",
+      "PackagePath": "staticwebassets\\carimages\\842be6e4-5be0-4ee7-a3d1-619544b6374a.png"
+    },
+    {
+      "Id": "X:\\HAND-OVER\\Hand-Over CAR\\HAND-OVER-main\\BACK-END\\CarRental_backendM02\\Carrental\\wwwroot\\carimages\\Screenshot 2024-07-16 194114.png",
+      "PackagePath": "staticwebassets\\carimages\\Screenshot 2024-07-16 194114.png"
+    },
+    {
+      "Id": "X:\\HAND-OVER\\Hand-Over CAR\\HAND-OVER-main\\BACK-END\\CarRental_backendM02\\Carrental\\wwwroot\\carimages\\Screenshot 2024-07-18 174848.png",
+      "PackagePath": "staticwebassets\\carimages\\Screenshot 2024-07-18 174848.png"
+    },
+    {
+      "Id": "X:\\HAND-OVER\\Hand-Over CAR\\HAND-OVER-main\\BACK-END\\CarRental_backendM02\\Carrental\\wwwroot\\carimages\\aad99093-9da9-453f-b58b-152bab0beb82.jpg",
+      "PackagePath": "staticwebassets\\carimages\\aad99093-9da9-453f-b58b-152bab0beb82.jpg"
+    },
+    {
+      "Id": "X:\\HAND-OVER\\Hand-Over CAR\\HAND-OVER-main\\BACK-END\\CarRental_backendM02\\Carrental\\wwwroot\\carimages\\aboutus.jpg",
+      "PackagePath": "staticwebassets\\carimages\\aboutus.jpg"
+    },
+    {
+      "Id": "X:\\HAND-OVER\\Hand-Over CAR\\HAND-OVER-main\\BACK-END\\CarRental_backendM02\\Carrental\\wwwroot\\carimages\\b87025dc-0f3d-49d4-a39d-b2e3f4a3102b.jpg",
+      "PackagePath": "staticwebassets\\carimages\\b87025dc-0f3d-49d4-a39d-b2e3f4a3102b.jpg"
+    },
+    {
+      "Id": "X:\\HAND-OVER\\Hand-Over CAR\\HAND-OVER-main\\BACK-END\\CarRental_backendM02\\Carrental\\wwwroot\\carimages\\f7130383-0a73-48ff-9d3c-09112a6da94d.jpg",
+      "PackagePath": "staticwebassets\\carimages\\f7130383-0a73-48ff-9d3c-09112a6da94d.jpg"
+    },
+    {
+      "Id": "X:\\HAND-OVER\\Hand-Over CAR\\HAND-OVER-main\\BACK-END\\CarRental_backendM02\\Carrental\\wwwroot\\carimages\\fc468c3d-ca7f-4733-9413-3e77c6d4f176.jpg",
+      "PackagePath": "staticwebassets\\carimages\\fc468c3d-ca7f-4733-9413-3e77c6d4f176.jpg"
+    },
+    {
+      "Id": "X:\\HAND-OVER\\Hand-Over CAR\\HAND-OVER-main\\BACK-END\\CarRental_backendM02\\Carrental\\wwwroot\\carimages\\s-l1200.webp",
+      "PackagePath": "staticwebassets\\carimages\\s-l1200.webp"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.Carrental.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.Carrental.props",
+      "PackagePath": "build\\Carrental.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.Carrental.props",
+      "PackagePath": "buildMultiTargeting\\Carrental.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.Carrental.props",
+      "PackagePath": "buildTransitive\\Carrental.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
